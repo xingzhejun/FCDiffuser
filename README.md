@@ -1,4 +1,4 @@
 # FCDiffuser
 Code for 'FCDiffuser: Frequency-Cascaded Diffusion Model with Spectral Fidelity for Offline Reinforcement Learning'
 
-The code will be published soon!
+The code is almost here! will be published within one week.
